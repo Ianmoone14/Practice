@@ -44,8 +44,8 @@
         "groupcount": 1,
         "id": 2001248,
         "metaData": {
-          "name": "Group Stage",
-          "type": "group"
+          "name": "Quarterfinals",
+          "type": "knockout"
         }
       },
       "teams": {
