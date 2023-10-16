@@ -14,8 +14,8 @@
         "groupcount": 1,
         "id": 2001247,
         "metaData": {
-          "name": "Group Stage",
-          "type": "group"
+          "name": "Quarterfinals",
+          "type": "knockout"
         }
       },
       "teams": {
@@ -118,6 +118,36 @@
         "idprovider": "champion",
         "internationalName": "Ulsan Hyundai FC",
         "isplacegolder": true
+      }
+    },
+    {
+      "round": {
+        "active": true,
+        "benchGKcount": 7,
+        "benchPlayerscount": 7,
+        "benchStaffcount": 7,
+        "CoefficientWinnerBonus": 0.4,
+        "competitionid": 6,
+        "datefrom": "2021-10-01",
+        "dateTo": "2021-10-15",
+        "fieldPlayerscount": 10,
+        "groupcount": 1,
+        "id": 2001251,
+        "metaData": {
+          "name": "Group Stage",
+          "type": "group"
+        }
+      },
+      "teams": {
+        "associationID": 200068,
+        "associationlogoUrl": "logo6.com",
+        "biglogourl": "https://example6.com",
+        "confederationtype": "UEFA",
+        "countryCode": "ESP",
+        "id": 50139,
+        "idprovider": "champion",
+        "internationalName": "Real Madrid CF",
+        "isplacegolder": false
       }
     }
   ]
