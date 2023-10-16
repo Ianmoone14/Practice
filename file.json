@@ -32,7 +32,7 @@
     },
     {
       "round": {
-        "active": false,
+        "active": true,
         "benchGKcount": 8,
         "benchPlayerscount": 7,
         "benchStaffcount": 5,
@@ -44,8 +44,8 @@
         "groupcount": 1,
         "id": 2001248,
         "metaData": {
-          "name": "Quarterfinals",
-          "type": "knockout"
+          "name": "Group Stage",
+          "type": "group"
         }
       },
       "teams": {
@@ -71,11 +71,11 @@
         "datefrom": "2021-07-10",
         "dateTo": "2021-07-20",
         "fieldPlayerscount": 11,
-        "groupcount": 2,
+        "groupcount": 1,
         "id": 2001249,
         "metaData": {
-          "name": "Semifinals",
-          "type": "knockout"
+          "name": "Group Stage",
+          "type": "group"
         }
       },
       "teams": {
@@ -118,36 +118,6 @@
         "idprovider": "champion",
         "internationalName": "Ulsan Hyundai FC",
         "isplacegolder": true
-      }
-    },
-    {
-      "round": {
-        "active": true,
-        "benchGKcount": 7,
-        "benchPlayerscount": 7,
-        "benchStaffcount": 7,
-        "CoefficientWinnerBonus": 0.4,
-        "competitionid": 6,
-        "datefrom": "2021-10-01",
-        "dateTo": "2021-10-15",
-        "fieldPlayerscount": 10,
-        "groupcount": 1,
-        "id": 2001251,
-        "metaData": {
-          "name": "Group Stage",
-          "type": "group"
-        }
-      },
-      "teams": {
-        "associationID": 200068,
-        "associationlogoUrl": "logo6.com",
-        "biglogourl": "https://example6.com",
-        "confederationtype": "UEFA",
-        "countryCode": "ESP",
-        "id": 50139,
-        "idprovider": "champion",
-        "internationalName": "Real Madrid CF",
-        "isplacegolder": false
       }
     }
   ]
