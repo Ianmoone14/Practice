@@ -15,7 +15,7 @@
         "id": 2001247,
         "metaData": {
           "name": "Group Stage",
-          "type": "knockout"
+          "type": "group"
         }
       },
       "teams": {
