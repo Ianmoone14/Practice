@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "round": {
+        "active": true,
+        "benchGKcount": 6,
+        "benchPlayerscount": 8,
+        "benchStaffcount": 9,
+        "CoefficientWinnerBonus": 0.2,
+        "competitionid": 2,
+        "datefrom": "2021-05-15",
+        "dateTo": "2021-06-30",
+        "fieldPlayerscount": 10,
+        "groupcount": 1,
+        "id": 2001247,
+        "metaData": {
+          "name": "Quarterfinals",
+          "type": "knockout"
+        }
+      },
+      "teams": {
+        "associationID": 200064,
+        "associationlogoUrl": "logo2.com",
+        "biglogourl": "https://example2.com",
+        "confederationtype": "CONMEBOL",
+        "countryCode": "BRA",
+        "id": 50135,
+        "idprovider": "glory",
+        "internationalName": "Santos FC",
+        "isplacegolder": true
+      }
+    },
+    {
+      "round": {
+        "active": true,
+        "benchGKcount": 8,
+        "benchPlayerscount": 7,
+        "benchStaffcount": 5,
+        "CoefficientWinnerBonus": 0.1,
+        "competitionid": 3,
+        "datefrom": "2021-03-20",
+        "dateTo": "2021-04-15",
+        "fieldPlayerscount": 9,
+        "groupcount": 1,
+        "id": 2001248,
+        "metaData": {
+          "name": "Group Stage",
+          "type": "group"
+        }
+      },
+      "teams": {
+        "associationID": 200065,
+        "associationlogoUrl": "logo3.com",
+        "biglogourl": "https://example3.com",
+        "confederationtype": "AFC",
+        "countryCode": "JPN",
+        "id": 50136,
+        "idprovider": "champion",
+        "internationalName": "Kashima Antlers",
+        "isplacegolder": false
+      }
+    },
+    {
+      "round": {
+        "active": true,
+        "benchGKcount": 7,
+        "benchPlayerscount": 7,
+        "benchStaffcount": 7,
+        "CoefficientWinnerBonus": 0.3,
+        "competitionid": 4,
+        "datefrom": "2021-07-10",
+        "dateTo": "2021-07-20",
+        "fieldPlayerscount": 11,
+        "groupcount": 1,
+        "id": 2001249,
+        "metaData": {
+          "name": "Group Stage",
+          "type": "group"
+        }
+      },
+      "teams": {
+        "associationID": 200066,
+        "associationlogoUrl": "logo4.com",
+        "biglogourl": "https://example4.com",
+        "confederationtype": "CAF",
+        "countryCode": "NGA",
+        "id": 50137,
+        "idprovider": "victory",
+        "internationalName": "Enyimba International FC",
+        "isplacegolder": false
+      }
+    },
+    {
+      "round": {
+        "active": false,
+        "benchGKcount": 6,
+        "benchPlayerscount": 8,
+        "benchStaffcount": 9,
+        "CoefficientWinnerBonus": 0.0,
+        "competitionid": 5,
+        "datefrom": "2021-09-05",
+        "dateTo": "2021-09-10",
+        "fieldPlayerscount": 10,
+        "groupcount": 1,
+        "id": 2001250,
+        "metaData": {
+          "name": "Final",
+          "type": "knockout"
+        }
+      },
+      "teams": {
+        "associationID": 200067,
+        "associationlogoUrl": "logo5.com",
+        "biglogourl": "https://example5.com",
+        "confederationtype": "AFC",
+        "countryCode": "KOR",
+        "id": 50138,
+        "idprovider": "champion",
+        "internationalName": "Ulsan Hyundai FC",
+        "isplacegolder": true
+      }
+    }
+  ]
+}
